@@ -3,6 +3,7 @@
 ## Sites desenvolvidos em PHP puro
 
 Sistemas desenvolvidos utilizando MySQL como banco de dados.
+
 Ambiente de desenvolvimento Lubuntu + PHP 7 + Apache e IDE Visual Studio Code.
 
 https://www.rafaeldemoraes.com.br/
